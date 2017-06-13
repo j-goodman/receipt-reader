@@ -14,3 +14,8 @@ p {
 footer {
   font-size: 10px;
 }
+
+img {
+  height: 120px;
+  width: auto;
+}
